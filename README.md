@@ -39,6 +39,9 @@ Before 2008, quantitative finance treated the financial system as a stable backg
 
 - [**around-the-world-in-81-repos**](https://github.com/roguetrainer/around-the-world-in-81-repos) - Demonstration of rapid numerical research acceleration through human-AI collaboration. Quick-and-dirty explorations across quantum computing (Qiskit, PennyLane), economic modeling, statistical physics, and financial analysis. Showcases effective AI collaboration practices rather than production-ready code.
 
+### List of repos
+[systemic-risk](https://github.com/roguetrainer/systemic-risk) | [systemic-risk-intro](https://github.com/roguetrainer/systemic-risk-intro) | [systemic-risk-metrics](https://github.com/roguetrainer/systemic-risk-metrics) | [silicon-subprime](https://github.com/roguetrainer/silicon-subprime) | [too-big-to-teraflop](https://github.com/roguetrainer/too-big-to-teraflop) | [rusty-quant](https://github.com/roguetrainer/rusty-quant) | [around-the-world-in-81-repos](https://github.com/roguetrainer/around-the-world-in-81-repos)
+
 ## The Mechanisms of Contagion
 
 Modern systemic risk models recognize multiple transmission channels:
