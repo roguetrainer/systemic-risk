@@ -2,7 +2,7 @@
 # Silicon Subprime vs Too Big to Teraflop
 ## Theoretical Synergy: Minsky vs. The Four Ls
 
-While [**Silicon Subprime**](https://github.com/roguetrainer/silicon-subprime) repository focuses on the *mechanics* of a crash, it operates within the broader *psychological* cycle modeled in our companion project, [**Too Big to Teraflop**](https://github.com/roguetrainer/too-big-to-teraflop).
+While [**Silicon Subprime**](https://github.com/roguetrainer/silicon-subprime) repository focuses on the *mechanics* of a crash, it operates within the broader *psychological* cycle modeled in our companion project, [**Too Big to Teraflop**](https://github.com/roguetrainer/too-big-to-teraflop). 
 
 ### The Connection: Micro-Foundations of Minsky
 Hyman Minsky’s "Financial Instability Hypothesis" argues that stability naturally leads to excess leverage. **Silicon Subprime** provides the mathematical micro-foundations for Minsky’s third and final stage: **Ponzi Finance**.
