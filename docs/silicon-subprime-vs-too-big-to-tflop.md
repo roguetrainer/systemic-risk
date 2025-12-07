@@ -1,5 +1,5 @@
 
-# Silicon Subprime vs To Big to Teraflop
+# Silicon Subprime vs Too Big to Teraflop
 ## Theoretical Synergy: Minsky vs. The Four Ls
 
 While [**Silicon Subprime**](https://github.com/roguetrainer/silicon-subprime) repository focuses on the *mechanics* of a crash, it operates within the broader *psychological* cycle modeled in our companion project, [**Too Big to Teraflop**](https://github.com/roguetrainer/too-big-to-teraflop).
